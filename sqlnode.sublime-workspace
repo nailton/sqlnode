@@ -1,0 +1,1929 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Add",
+				"AddressController\tabc"
+			],
+			[
+				"Ad",
+				"Address\t(Address.js)"
+			],
+			[
+				"re",
+				"req\tabc"
+			],
+			[
+				"c",
+				"controllers/"
+			],
+			[
+				"mod",
+				"models/"
+			],
+			[
+				"Da",
+				"DataTypes\tabc"
+			],
+			[
+				"ex",
+				"extends\tkeyword"
+			],
+			[
+				"expo",
+				"exports\tvar"
+			],
+			[
+				"arr",
+				"arraySendMail\tabc"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"sub",
+				"subodominio\tabc"
+			],
+			[
+				"dmin",
+				"dominio_atual\tabc"
+			],
+			[
+				"dmo",
+				"dominio\tabc"
+			],
+			[
+				"preg",
+				"preg_match\tabc"
+			],
+			[
+				"Log",
+				"Log::info\tLog an informational message to the logs."
+			],
+			[
+				"Venda",
+				"VendaController\t(VendaController.php)"
+			],
+			[
+				"Control",
+				"Controller\t(VendaController.php)"
+			],
+			[
+				"Rou",
+				"Route::get\tBasic Get Route."
+			],
+			[
+				"back",
+				"background-color\tabc"
+			],
+			[
+				"nova",
+				"novalp\t(40dias.blade.php)"
+			],
+			[
+				"LOG",
+				"Log::info\tLog an informational message to the logs."
+			],
+			[
+				"ale",
+				"alert-danger\tabc"
+			],
+			[
+				"souc",
+				"sourceMaps"
+			],
+			[
+				"pos",
+				"position\t(app.scss)"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"d",
+				"d\tdisplay: ${1:block};"
+			],
+			[
+				"icon",
+				"icones-bandeira\tabc"
+			],
+			[
+				"icones",
+				"icones-bandeira\t(cartao.blade.php)"
+			],
+			[
+				"bandei",
+				"bandeiras-aceitas\tabc"
+			],
+			[
+				"preco-",
+				"preco-bandeira\t(cartao.blade.php)"
+			],
+			[
+				"li",
+				"li\t<li>"
+			],
+			[
+				"is_a",
+				"is_array〔function〕"
+			],
+			[
+				"json",
+				"json_decode\tabc"
+			],
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"ma-t",
+				"margin-top\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"dis",
+				"display\tabc"
+			],
+			[
+				"css",
+				"css\t.css() - single"
+			],
+			[
+				"atr",
+				"attr\t.attr() - single"
+			],
+			[
+				"topo",
+				"topo-informacoes\tabc"
+			],
+			[
+				"valida",
+				"validarDados\tabc"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"vali",
+				"$validarDados〔variable〕"
+			],
+			[
+				"brea",
+				"break\tabc"
+			],
+			[
+				"json_en",
+				"json_encode\tabc"
+			],
+			[
+				"pa",
+				"password\tabc"
+			],
+			[
+				"H",
+				"Hash::make\tHash the given value."
+			],
+			[
+				"dd",
+				"dd\tL5 dd"
+			],
+			[
+				"dado",
+				"dados-finalizar\t(finalizar.blade.php)"
+			],
+			[
+				"tex",
+				"text-align\tabc"
+			],
+			[
+				"txt",
+				"text-align\tabc"
+			],
+			[
+				"offset-by-",
+				"offset-by-three\t(cliente.blade.php)"
+			],
+			[
+				"venda",
+				"venda-intro\tabc"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"contai",
+				"container\t(cliente.blade.php)"
+			],
+			[
+				"pb",
+				"padding-bottom\tproperty"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"numero",
+				"numero\t(app.scss)"
+			],
+			[
+				"req",
+				"request\tabc"
+			],
+			[
+				"sess",
+				"session〔function〕"
+			],
+			[
+				"Sess",
+				"Session::all\tRetrieve All Data from the Session"
+			],
+			[
+				"validar",
+				"validarDados\tabc"
+			],
+			[
+				"w",
+				"width\tabc"
+			],
+			[
+				"butt",
+				"button\tabc"
+			],
+			[
+				"form",
+				"form-venda\tabc"
+			],
+			[
+				"for",
+				"formVenda\t(cliente.blade.php)"
+			],
+			[
+				"but",
+				"button\t<button>"
+			],
+			[
+				"inp",
+				"inputt\tinput - text"
+			],
+			[
+				"img",
+				"img\timg"
+			],
+			[
+				"Route",
+				"Route::any\tBasic Route with Closure."
+			],
+			[
+				"view",
+				"view\tL5 View"
+			],
+			[
+				"Form",
+				"FormPagamento.vue"
+			],
+			[
+				"la",
+				"label\t<label>"
+			],
+			[
+				"public",
+				"public/"
+			],
+			[
+				"resour",
+				"resources/"
+			],
+			[
+				"lb",
+				"label\tTag"
+			],
+			[
+				"emo",
+				"emogi-whatsapp\tabc"
+			],
+			[
+				"comp",
+				"companheirismo\tabc"
+			],
+			[
+				"icone",
+				"icones-bonus\tabc"
+			],
+			[
+				"bonu",
+				"bonus-intro\tabc"
+			],
+			[
+				"emogi",
+				"emogi-whatsapp\t(app.scss)"
+			],
+			[
+				"com",
+				"companheirismo\t(index.blade.php)"
+			],
+			[
+				"transformacao",
+				"transformacao-itens\tabc"
+			],
+			[
+				"sec",
+				"secsim\tDefines a section with simple value"
+			],
+			[
+				"tran",
+				"transformacao-1\t(index.blade.php)"
+			],
+			[
+				"trans",
+				"transformacao-2\t(index.blade.php)"
+			],
+			[
+				"transf",
+				"transformacao-3\t(index.blade.php)"
+			],
+			[
+				"transfor",
+				"transformação\t(index.blade.php)"
+			],
+			[
+				"link",
+				"linki\tlink - icon"
+			],
+			[
+				"lorem",
+				"lorem\tlorem - Medium paragraph"
+			],
+			[
+				"get_hea",
+				"get_header"
+			],
+			[
+				"inpt",
+				"inputs\tinput - submit"
+			],
+			[
+				"text",
+				"textarea\t<textarea>"
+			],
+			[
+				"inputt",
+				"inputt\tinput - text"
+			],
+			[
+				"curr",
+				"currentLink\tabc"
+			],
+			[
+				"se",
+				"sec_blo\t(index.php)"
+			],
+			[
+				"sec_",
+				"sec_hom\t(index.php)"
+			],
+			[
+				"att",
+				"attr\t.attr() - single"
+			],
+			[
+				"has",
+				"hasClass\t.hasClass()"
+			],
+			[
+				"cbp",
+				"cbp-fbcurrent\t(index.php)"
+			],
+			[
+				"id",
+				"id=〔attribute〕"
+			],
+			[
+				"lroem",
+				"lorem\tlorem - Medium paragraph"
+			],
+			[
+				"tit",
+				"titulo-caps\t(projeto-lei.php)"
+			],
+			[
+				"bg",
+				"bg+\tbackground: ${1:#fff} url(${2}) ${3:0} ${4:0} ${5:no-repeat};"
+			],
+			[
+				"get_cate",
+				"get_category〔function〕"
+			],
+			[
+				"get_cat",
+				"get_catname〔function〕"
+			],
+			[
+				"style",
+				"style\tAttr"
+			],
+			[
+				"ler",
+				"ler-mais\tabc"
+			],
+			[
+				"cl",
+				"cl\tconsole.log"
+			],
+			[
+				"cli",
+				"click\t.click()"
+			],
+			[
+				"news",
+				"newsletter\tabc"
+			],
+			[
+				"plug",
+				"plugin_dir_path〔function〕"
+			],
+			[
+				"get_template",
+				"get_template_directory_uri\t(footer.php)"
+			],
+			[
+				"get_template_part",
+				"get_template_part"
+			],
+			[
+				"get_templa",
+				"get_template_part\tabc"
+			],
+			[
+				"nes",
+				"newsletterpopup\t(style.css)"
+			],
+			[
+				"newsl",
+				"newsletter\t(style.css)"
+			],
+			[
+				"des",
+				"destaque-titulo\tabc"
+			],
+			[
+				"fac",
+				"jquery.fancybox.min.css"
+			],
+			[
+				"logo",
+				"logo-negativa.png\tw:359 h:106"
+			],
+			[
+				"title",
+				"title-tag\t(functions.php)"
+			],
+			[
+				"get_te",
+				"get_template_directory_uri〔function〕"
+			],
+			[
+				"is_user",
+				"is_user_logged_in"
+			],
+			[
+				"styl",
+				"style\tAttr"
+			],
+			[
+				"sty",
+				"style\tAttr"
+			],
+			[
+				"colu",
+				"columns\t(index.php)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/models/Address.js",
+			"settings":
+			{
+				"buffer_size": 477,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/routes.js",
+			"settings":
+			{
+				"buffer_size": 456,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/database/index.js",
+			"settings":
+			{
+				"buffer_size": 339,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/controllers/AddressController.js",
+			"settings":
+			{
+				"buffer_size": 579,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/models/User.js",
+			"settings":
+			{
+				"buffer_size": 311,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/SASS Build/SASS - Compressed.sublime-build",
+					""
+				],
+				[
+					"Packages/SASS Build/SASS.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SASS Build/SASS - Compressed.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"folder",
+				"File: New Folder Relative to Project Root"
+			],
+			[
+				"new fol",
+				"File: New Folder Relative to Project Root"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"new",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"jaba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"anf",
+				"ANF: New File"
+			],
+			[
+				"htmlpre",
+				"HTMLPrettify"
+			],
+			[
+				"htm",
+				"HTMLPrettify: Set `node` Path"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"remop ",
+				"Package Control: Remove Package"
+			],
+			[
+				"lista",
+				"Package Control: List Packages"
+			],
+			[
+				"newfol",
+				"File: New Folder Relative to Current View"
+			],
+			[
+				"termin",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"ad fol",
+				"Project: Add Folder"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"cm",
+				"Git: Commit"
+			],
+			[
+				"cmm",
+				"Git: Commit"
+			],
+			[
+				"adl",
+				"Git: Add All"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"adll",
+				"Git: Add All"
+			],
+			[
+				"ad",
+				"Git: Add All"
+			],
+			[
+				"htmlb",
+				"HTMLBeautify"
+			],
+			[
+				"ADL",
+				"Snippet: Google AJAX Libraries: Dojo"
+			],
+			[
+				"sphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"shtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"shtmlb",
+				"Print to HTML: print as HTML via browser"
+			],
+			[
+				"d",
+				"File: Duplicate"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"log",
+				"Git: Log All"
+			],
+			[
+				"hmtlb",
+				"HTMLBeautify"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"ranemme",
+				"Random:DateTimeRFC3339"
+			],
+			[
+				"rene",
+				"Rename File"
+			],
+			[
+				"css",
+				"Format CSS: Compact (Break Selectors, No Spaces)"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"lo",
+				"Git: Log All"
+			],
+			[
+				"com",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"random",
+				"Random:Letters and numbers"
+			],
+			[
+				"ran nam",
+				"Random:Full Name"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"renam",
+				"Rename File"
+			],
+			[
+				"pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"sbla",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"vue",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"rando",
+				"Random:Letters and numbers"
+			],
+			[
+				"ssas",
+				"Set Syntax: Sass"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disble",
+				"Package Control: Disable Package"
+			],
+			[
+				"hmtl",
+				"HTMLBeautify"
+			],
+			[
+				"compre",
+				"Format CSS: Compressed"
+			],
+			[
+				"sa",
+				"Project: Save As"
+			],
+			[
+				"folde",
+				"Project: Add Folder"
+			],
+			[
+				"bran",
+				"Git: New Branch"
+			],
+			[
+				"sattu",
+				"Git: Status"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"amen",
+				"Git: Amend Commit"
+			],
+			[
+				"amend",
+				"Git: Amend Commit"
+			],
+			[
+				"ginite",
+				"Gitignore: New gitignore"
+			],
+			[
+				"git i",
+				"GitGutter: Support Info"
+			],
+			[
+				"giti",
+				"Gitignore: New gitignore"
+			],
+			[
+				"ran",
+				"Random:UUID"
+			],
+			[
+				"rnadom",
+				"Random:Letters and numbers"
+			],
+			[
+				"wp",
+				"WordPress Generate Salt Keys"
+			],
+			[
+				"SAVE",
+				"Project: Save As"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"pusc",
+				"Git: Push Current Branch"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"ui t",
+				"UI: Select Theme"
+			],
+			[
+				"LOG",
+				"Git: Log All"
+			],
+			[
+				"PULL",
+				"Git: Pull Current Branch"
+			],
+			[
+				"pullc",
+				"Git: Pull Current Branch"
+			],
+			[
+				"tmlb",
+				"HTMLBeautify"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"puscb",
+				"Git: Push Current Branch"
+			],
+			[
+				"pushch",
+				"Git: Push Current Branch"
+			],
+			[
+				"pushc",
+				"Git: Push Current Branch"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"git chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"pre",
+				"Preferences: Settings"
+			],
+			[
+				"subli mer",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"listpa",
+				"Package Control: List Packages"
+			],
+			[
+				"gutter",
+				"GutterColor: Clear Cache"
+			],
+			[
+				"gutt",
+				"Preferences: GutterColor Settings – User"
+			],
+			[
+				"gitgu",
+				"GitGutter: Support Info"
+			],
+			[
+				"new fi",
+				"ANF: New File"
+			],
+			[
+				"pucb",
+				"Git: Pull Current Branch"
+			],
+			[
+				"comme",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"salt w",
+				"WordPress Generate Salt Keys"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"pushcb",
+				"Git: Push Current Branch"
+			],
+			[
+				"gaa",
+				"Git: Add All"
+			],
+			[
+				"save po",
+				"Project: Save As"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 269.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/nailton/Sites/sqlnode",
+		"/Users/nailton/Sites/sqlnode/src",
+		"/Users/nailton/Sites/sqlnode/src/controllers",
+		"/Users/nailton/Sites/sqlnode/src/database",
+		"/Users/nailton/Sites/sqlnode/src/database/migrations",
+		"/Users/nailton/Sites/sqlnode/src/models"
+	],
+	"file_history":
+	[
+		"/Users/nailton/Sites/sqlnode/src/controllers/AddressController.js",
+		"/Users/nailton/Sites/sqlnode/src/routes.js",
+		"/Users/nailton/Sites/sqlnode/src/database/migrations/20200513014158-create-addresses.js",
+		"/Users/nailton/Sites/sqlnode/src/database/index.js",
+		"/Users/nailton/Sites/sqlnode/src/models/Address.js",
+		"/Users/nailton/Sites/sqlnode/src/models/User.js",
+		"/Users/nailton/Sites/sqlnode/src/config/database.js",
+		"/Users/nailton/Sites/sqlnode/src/controllers/UserController.js",
+		"/Users/nailton/Sites/sqlnode/src/server.js",
+		"/Users/nailton/Sites/sqlnode/node_modules/routes.js",
+		"/Users/nailton/Sites/sqlnode/.sequelizerc",
+		"/Users/nailton/Sites/sqlnode/src/database/migrations",
+		"/Users/nailton/Sites/sqlnode/src/database/migrations/20200512191201-create-users.js",
+		"/Users/nailton/Sites/sqlnode/package.json",
+		"/Users/nailton/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/nailton/Sites/yupay/src/models/Assinatura.js",
+		"/Users/nailton/Sites/tvbrasiliacomercial/programacao.php",
+		"/Users/nailton/Sites/tvbrasiliacomercial/prog-candangao.php",
+		"/Users/nailton/Sites/tvbrasiliacomercial/df-alerta.php",
+		"/Users/nailton/Sites/tvbrasiliacomercial/cases.php",
+		"/Users/nailton/Sites/tvbrasiliacomercial/index.php",
+		"/Users/nailton/Sites/tvbrasiliacomercial/header.php",
+		"/Users/nailton/Sites/tvbrasiliacomercial/df-alerta-2.php",
+		"/Users/nailton/Sites/tvbrasiliacomercial/cbpoder.php",
+		"/Users/nailton/Sites/tvbrasiliacomercial/formatos-comerciais.php",
+		"/Users/nailton/Sites/tvbrasiliacomercial/candangao.php",
+		"/Users/nailton/Sites/tvbrasiliacomercial/vrum.php",
+		"/Users/nailton/Sites/tvbrasiliacomercial/sabores.php",
+		"/Users/nailton/Sites/tvbrasiliacomercial/css/app.css",
+		"/Users/nailton/Sites/tvbrasiliacomercial/jornal-local.php",
+		"/Users/nailton/Sites/tvbrasiliacomercial/newsletter.php",
+		"/Users/nailton/Sites/tvbrasiliacomercial/config.php",
+		"/Users/nailton/Sites/tvbrasiliacomercial/.htaccess-example",
+		"/Users/nailton/Sites/tvbrasiliacomercial/.htaccess",
+		"/Users/nailton/Sites/tvbrasiliacomercial/.gitignore",
+		"/Users/nailton/Sites/tvbrasiliacomercial/js/app.js",
+		"/Users/nailton/Sites/tvbrasiliacomercial/footer.php",
+		"/Users/nailton/Sites/tvbrasiliacomercial/css/simpleBanner.css",
+		"/Users/nailton/Sites/api-tbd/storage/logs/laravel.log",
+		"/Users/nailton/Sites/api-tbd/routes/web.php",
+		"/Users/nailton/Sites/api-tbd/.env",
+		"/Users/nailton/Sites/api-tbd/app/Http/Controllers/VendaController.php",
+		"/Users/nailton/Sites/api-tbd/app/Providers/RouteServiceProvider.php",
+		"/Users/nailton/Sites/api-tbd/resources/views/index.blade.php",
+		"/Users/nailton/Sites/api-tbd/resources/views/cliente.blade.php",
+		"/Users/nailton/Sites/api-tbd/resources/views/cartao.blade.php",
+		"/Users/nailton/Sites/api-tbd/resources/views/finalizar.blade.php",
+		"/Users/nailton/Sites/api-tbd/resources/sass/app.scss",
+		"/Users/nailton/Sites/api-tbd/resources/views/40dias.blade.php",
+		"/Users/nailton/Sites/api-tbd/resources/views/partials/topo-foto.blade.php",
+		"/Users/nailton/Sites/api-tbd/resources/views/partials/topo-texto.blade.php",
+		"/Users/nailton/Sites/api-tbd/resources/views/layouts/site.blade.php",
+		"/Users/nailton/Sites/api-tbd/app/Http/Controllers/Api/AuthController.php",
+		"/Users/nailton/Sites/api-tbd/vendor/lucascudo/laravel-pt-br-localization/src/laravel-pt-BR-localization.php",
+		"/Users/nailton/Sites/api-tbd/.gitignore",
+		"/Users/nailton/Sites/api-tbd/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemAdapter.php",
+		"/Users/nailton/Sites/api-tbd/config/passport.php",
+		"/Users/nailton/Sites/api-tbd/vendor/league/oauth2-server/src/CryptKey.php",
+		"/Users/nailton/Downloads/env",
+		"/Users/nailton/Sites/api-tbd/storage/framework/sessions/99xiq7ATZUjMJf2qZGSZw6w5pcpiMGhPkxFTMOBT",
+		"/Users/nailton/Sites/api-tbd/storage/framework/sessions/HBhHMWZ0OKeKqNaZ5TWAF0E8fyZMzNG3evkIjTHp",
+		"/Users/nailton/Sites/api-tbd/vendor/laravel/framework/tests/Database/DatabaseSeederTest.php",
+		"/Users/nailton/Sites/api-tbd/storage/framework/sessions/fub886659983WbA8R1tvgbMeR2XxpvTQnCf79dyQ",
+		"/Users/nailton/Sites/api-tbd/webpack.mix.js",
+		"/Users/nailton/Sites/api-tbd/resources/js/app.js",
+		"/Users/nailton/Sites/api-tbd/resources/views/emails/novo_cadastro.blade.php",
+		"/Applications/MAMP/htdocs/32zoom/wp-includes/js/dist/date.min.js",
+		"/Users/nailton/Sites/api-tbd/public/css/app.css",
+		"/Users/nailton/Sites/api-tbd/vendor/symfony/console/Helper/Helper.php",
+		"/Users/nailton/Sites/api-tbd/resources/views/emails",
+		"/Users/nailton/Sites/api-tbd/public/js/app.js",
+		"/Users/nailton/Sites/api-tbd/vendor/laravel-validation-rules/credit-card/src/Contracts/CreditCard.php",
+		"/Users/nailton/Sites/api-tbd/storage/framework/sessions/7YLf6wonSTQW44roqS6gry4c5vFJMDNnL2O966GO",
+		"/Users/nailton/Downloads/sisben.sql",
+		"/Users/nailton/Sites/api-tbd/resources/js/components/FormPagamento.vue",
+		"/Users/nailton/Library/Application Support/Sublime Text 3/Installed Packages/SASS Build.sublime-package",
+		"/Users/nailton/Library/Application Support/Sublime Text 3/Installed Packages/Sass.sublime-package",
+		"/Users/nailton/Downloads/Skeleton-2.0.4/index.html",
+		"/Users/nailton/Sites/api-tbd/resources/css/skeleton.css",
+		"/Users/nailton/Sites/api-tbd/resources/css/normalize.css",
+		"/Users/nailton/Sites/sisben-admin/config/app.php",
+		"/Users/nailton/Sites/sisben-admin/src/Controller/EntidadesController.php",
+		"/Users/nailton/Sites/sisben-admin/src/Model/Table/UsuariosTable.php",
+		"/Users/nailton/Sites/sisben-admin/src/Controller/DashboardController.php",
+		"/Users/nailton/Sites/sisben-admin/vendor/pgbi/cakephp3-soft-delete/src/Model/Table/SoftDeleteTrait.php",
+		"/Users/nailton/Documents/dubbox/CONFIG_SISTEMA_DUBBA/sisben-admin/.env.default",
+		"/Users/nailton/Sites/api-tbd/vendor/laravel/framework/src/Illuminate/Foundation/Console/KeyGenerateCommand.php",
+		"/Users/nailton/.composer/auth.json",
+		"/Applications/MAMP/htdocs/.htaccess",
+		"/Applications/MAMP/conf/apache/httpd.conf",
+		"/etc/hosts",
+		"/Applications/MAMP/htdocs/sisben-cliente/config/app.default.php",
+		"/Applications/MAMP/htdocs/sisben-cliente/config/.env.default",
+		"/Users/nailton/Downloads/[ERRO na consulta 32] Incorrect datetime value: '0.txt",
+		"/Applications/MAMP/htdocs/sisben-cliente/config/routes.php",
+		"/Applications/MAMP/htdocs/sisben-cliente/config/bootstrap.php",
+		"/Applications/MAMP/htdocs/sisben-cliente/config/.app.php.swp",
+		"/Applications/MAMP/htdocs/sisben-cliente/.editorconfig",
+		"/Applications/MAMP/conf/apache/extra/httpd-vhosts.conf",
+		"/Users/nailton/Downloads/httpd-vhost.CONG",
+		"/Applications/MAMP/htdocs/32zoom/wp-content/themes/32zoom/footer.php",
+		"/Applications/MAMP/htdocs/32zoom/wp-content/themes/32zoom/header.php",
+		"/Applications/MAMP/htdocs/32zoom/wp-content/themes/32zoom/js/cbpFixedScrollLayout.min.js",
+		"/Applications/MAMP/htdocs/32zoom/wp-content/themes/32zoom/js/app.js",
+		"/Applications/MAMP/htdocs/32zoom/wp-content/themes/32zoom/functions.php",
+		"/Applications/MAMP/htdocs/32zoom/wp-content/themes/32zoom/style.css",
+		"/Applications/MAMP/htdocs/32zoom/wp-config.php",
+		"/Applications/MAMP/htdocs/32zoom/index.php",
+		"/Applications/MAMP/htdocs/32zoom/.gitignore",
+		"/Applications/MAMP/htdocs/32zoom/css/app.css",
+		"/Applications/MAMP/htdocs/32zoom/js/app.js",
+		"/Applications/MAMP/htdocs/32zoom/js/cbpFixedScrollLayout.min.js",
+		"/Applications/MAMP/htdocs/comsefaz/wp-includes/js/dist/block-editor.min.js",
+		"/Applications/MAMP/htdocs/comsefaz/wp-includes/post-template.php",
+		"/Applications/MAMP/htdocs/comsefaz/wp-content/themes/comsefaz/projeto-lei.php",
+		"/Applications/MAMP/htdocs/comsefaz/wp-content/themes/comsefaz/footer.php",
+		"/Applications/MAMP/htdocs/comsefaz/wp-content/themes/comsefaz/style.css",
+		"/Applications/MAMP/htdocs/comsefaz/wp-content/themes/comsefaz/header.php",
+		"/Applications/MAMP/htdocs/comsefaz/.gitignore",
+		"/Applications/MAMP/htdocs/comsefaz/wp-content/themes/comsefaz/banner.php",
+		"/Applications/MAMP/htdocs/comsefaz/wp-content/themes/comsefaz/single.php",
+		"/Applications/MAMP/htdocs/comsefaz/wp-content/themes/comsefaz/index.php",
+		"/Applications/MAMP/htdocs/comsefaz/wp-content/themes/comsefaz/js/app.js",
+		"/Applications/MAMP/htdocs/comsefaz/wp-content/themes/comsefaz/newsletter.php",
+		"/Applications/MAMP/htdocs/comsefaz/index.php",
+		"/Applications/MAMP/htdocs/comsefaz/wp-config.php",
+		"/Users/nailton/Downloads/transfonter.org-20200124-004925/stylesheet.css",
+		"/Applications/MAMP/htdocs/comsefaz/wp-content/themes/comsefaz/link-social.php"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 149.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"post",
+			"('@/",
+			"Address",
+			"UserController",
+			"User",
+			"email",
+			"user",
+			"User",
+			"users",
+			"mdoelName",
+			"Name",
+			"const"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/models/Address.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 477,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								284,
+								284
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false,
+							"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/routes.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 456,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								353,
+								353
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false,
+							"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/database/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 339,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								300,
+								306
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"use_tab_stops": false,
+							"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/controllers/AddressController.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 579,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183,
+								183
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false,
+							"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/models/User.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								238,
+								238
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false,
+							"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 222.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 222.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sqlnode.sublime-project",
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"route",
+				"src/routes.js"
+			],
+			[
+				"data inde",
+				"src/database/index.js"
+			],
+			[
+				"uc",
+				"src/controllers/UserController.js"
+			],
+			[
+				"data",
+				"src/config/database.js"
+			],
+			[
+				"user",
+				"src/models/User.js"
+			],
+			[
+				"ser",
+				"src/server.js"
+			],
+			[
+				"",
+				"src/config/database.js"
+			],
+			[
+				"indx",
+				"src/database/index.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"serve",
+				"src/server.js"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"assina",
+				"src/models/Assinatura.js"
+			],
+			[
+				"prog",
+				"prog-candangao.php"
+			],
+			[
+				"PROGRAMA",
+				"programacao.php"
+			],
+			[
+				"df",
+				"df-alerta.php"
+			],
+			[
+				"case",
+				"cases.php"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"he",
+				"header.php"
+			],
+			[
+				"head",
+				"header.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"program",
+				"programacao.php"
+			],
+			[
+				"df ",
+				"df-alerta-2.php"
+			],
+			[
+				"df al",
+				"df-alerta.php"
+			],
+			[
+				"df ale",
+				"df-alerta-2.php"
+			],
+			[
+				"pro canda",
+				"prog-candangao.php"
+			],
+			[
+				"cb",
+				"cbpoder.php"
+			],
+			[
+				"for",
+				"formatos-comerciais.php"
+			],
+			[
+				"cana",
+				"candangao.php"
+			],
+			[
+				"sabo",
+				"sabores.php"
+			],
+			[
+				"vr",
+				"vrum.php"
+			],
+			[
+				"progr",
+				"programacao.php"
+			],
+			[
+				"sabore",
+				"sabores.php"
+			],
+			[
+				"app.cs",
+				"css/app.css"
+			],
+			[
+				"progra",
+				"programacao.php"
+			],
+			[
+				"jor lo",
+				"jornal-local.php"
+			],
+			[
+				"df 2",
+				"df-alerta-2.php"
+			],
+			[
+				"cas",
+				"cases.php"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"foo",
+				"footer.php"
+			],
+			[
+				"footer",
+				"footer.php"
+			],
+			[
+				"index.",
+				"index.php"
+			],
+			[
+				"app.js",
+				"js/app.js"
+			],
+			[
+				"routeservi",
+				"app/Providers/RouteServiceProvider.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"lara",
+				"storage/logs/laravel.log"
+			],
+			[
+				"app.sc",
+				"resources/sass/app.scss"
+			],
+			[
+				"inde blad",
+				"resources/views/index.blade.php"
+			],
+			[
+				"web.php",
+				"routes/web.php"
+			],
+			[
+				"app.scs",
+				"resources/sass/app.scss"
+			],
+			[
+				"laral",
+				"storage/logs/laravel.log"
+			],
+			[
+				"laral l",
+				"vendor/lucascudo/laravel-pt-br-localization/src/laravel-pt-BR-localization.php"
+			],
+			[
+				"appcs",
+				"resources/sass/app.scss"
+			],
+			[
+				".en",
+				".env"
+			],
+			[
+				"pass",
+				"config/passport.php"
+			],
+			[
+				"oauth2-server/src/CryptKey.php",
+				"vendor/league/oauth2-server/src/CryptKey.php"
+			],
+			[
+				"seeder",
+				"vendor/laravel/framework/tests/Database/DatabaseSeederTest.php"
+			],
+			[
+				"laravel lo",
+				"storage/logs/laravel.log"
+			],
+			[
+				"vencon",
+				"app/Http/Controllers/VendaController.php"
+			],
+			[
+				"web",
+				"webpack.mix.js"
+			],
+			[
+				"site.",
+				"resources/views/layouts/site.blade.php"
+			],
+			[
+				"car bla",
+				"resources/views/cartao.blade.php"
+			],
+			[
+				"clien.",
+				"resources/views/cliente.blade.php"
+			],
+			[
+				"venda.bla",
+				"resources/views/emails/novo_cadastro.blade.php"
+			],
+			[
+				"cart",
+				"resources/views/cartao.blade.php"
+			],
+			[
+				"app",
+				"public/css/app.css"
+			],
+			[
+				"clien",
+				"resources/views/cliente.blade.php"
+			],
+			[
+				"larao lo",
+				"storage/logs/laravel.log"
+			],
+			[
+				"laral ",
+				"storage/logs/laravel.log"
+			],
+			[
+				"cartao",
+				"resources/views/cartao.blade.php"
+			],
+			[
+				"index.bla",
+				"resources/views/index.blade.php"
+			],
+			[
+				"credit",
+				"vendor/laravel-validation-rules/credit-card/src/Contracts/CreditCard.php"
+			],
+			[
+				"aucon",
+				"app/Http/Controllers/Api/AuthController.php"
+			],
+			[
+				"laravel.",
+				"storage/logs/laravel.log"
+			],
+			[
+				"webpac",
+				"webpack.mix.js"
+			],
+			[
+				"gitigno",
+				".gitignore"
+			],
+			[
+				"app.",
+				"config/app.php"
+			],
+			[
+				"EntidadesController.php",
+				"src/Controller/EntidadesController.php"
+			],
+			[
+				"mode usua",
+				"src/Model/Table/UsuariosTable.php"
+			],
+			[
+				"appcoon",
+				"src/Controller/AppController.php"
+			],
+			[
+				"wp con",
+				"wp-config.php"
+			],
+			[
+				"style",
+				"wp-content/themes/comsefaz/style.css"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"news",
+				"wp-content/themes/comsefaz/newsletter.php"
+			],
+			[
+				"wp conf",
+				"wp-config.php"
+			],
+			[
+				"newsl",
+				"wp-content/themes/comsefaz/newsletter.php"
+			],
+			[
+				"style.css",
+				"wp-content/themes/comsefaz/style.css"
+			],
+			[
+				"header",
+				"wp-content/themes/comsefaz/header.php"
+			],
+			[
+				"funcio",
+				"wp-content/themes/comsefaz/functions.php"
+			],
+			[
+				"func",
+				"wp-content/themes/comsefaz/functions.php"
+			],
+			[
+				"javas",
+				"wp-includes/js/autosave.js"
+			],
+			[
+				"function",
+				"wp-content/themes/comsefaz/functions.php"
+			],
+			[
+				"styl",
+				"wp-content/themes/comsefaz/style.css"
+			],
+			[
+				"cm index",
+				"wp-content/themes/comsefaz/index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "tv",
+		"selected_items":
+		[
+			[
+				"tv",
+				"~/Sites/tvbrasiliacomercial/tvbrasiliacomercial.sublime-project"
+			],
+			[
+				"",
+				"~/Sites/quizbsb60/quizzbsb60.sublime-project"
+			],
+			[
+				"close",
+				"~/Sites/tvbrasiliacomercial/tvbrasiliacomercial.sublime-project"
+			],
+			[
+				"api",
+				"~/Sites/api-tbd/api-tbd.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
